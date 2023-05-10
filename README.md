@@ -7,4 +7,4 @@ contenu et agglomératives, enfin par des techniques de l’état de l’art d�
 
 Les performances de ces différentes méthodes sont évaluées grâce à la base de données MovieLens en calculant certaines métriques (MSE, MAE) et facteurs de succès (diversité, couverture, sérendipité, nouveauté, utilité) afin de comprendre comment se comportent chacune des méthodes.
 
-Les résultats ainsi que les conclusion de ce projet se trouvent dans notre [rapport](Exploration\des\systèmes\de\recommandation.pdf).
+Les résultats ainsi que les conclusion de ce projet se trouvent dans notre [rapport](Exploration-des-systèmes-de-recommandation.pdf).
